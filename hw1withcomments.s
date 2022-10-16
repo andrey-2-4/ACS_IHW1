@@ -6,7 +6,7 @@
 	.comm	ARRAY2,40000,32
 	.globl	min
 	.type	min, @function
-# функция min, возвращает наименьший из 2 элементов
+# функция min, возвращает наименьший из 2 элементов (в eax результат)
 min:
 	push	rbp # помещаем rbp на стек 
 	mov	rbp, rsp # rbp = rsp 
@@ -108,7 +108,7 @@ main:
 	mov	eax, DWORD PTR -4[rbp] # eax = (-4 на стеке) = a
 	mov	esi, edx # esi = edx
 	mov	edi, eax # edi = eax
-	call	min # вызываем функцию min
+	call	min # вызываем функцию min, в eax кладем результат
 	mov	edx, DWORD PTR -12[rbp] # edx = (-12 на стеке) = i
 	movsx	rdx, edx # rdx = edx
 	# вычисляем положение элемента №i массива 2
