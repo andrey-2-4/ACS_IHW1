@@ -55,3 +55,6 @@
 
 ![Снимок экрана от 2022-10-16 18-53-13](https://user-images.githubusercontent.com/61345502/196045153-e2f554d8-a8b3-46fd-9002-9f10049f8f78.png)
 
+(результат работы s3.out)
+
+![изображение](https://user-images.githubusercontent.com/61345502/196048758-cd30816f-e6f5-43c8-84eb-8493b252c0b4.png)
