@@ -51,3 +51,7 @@
 
 ![Снимок экрана от 2022-10-16 16-43-41](https://user-images.githubusercontent.com/61345502/196038852-84afcdb0-a1c2-4b58-878d-80e5fbbf40d5.png)
 
+(результат работы s2.out)
+
+![Снимок экрана от 2022-10-16 18-53-13](https://user-images.githubusercontent.com/61345502/196045153-e2f554d8-a8b3-46fd-9002-9f10049f8f78.png)
+
